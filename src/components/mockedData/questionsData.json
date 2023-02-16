@@ -1,0 +1,77 @@
+[
+	{
+		"title": "The analysis",
+		"label": "To take into account on user level data",
+		"question": [
+			{
+				"label": "Do you have one user in more than one variant of the same AB test?"
+			},
+			{
+				"label": "Do we have enough users in our AB test? Are those users representative for the total population?"
+			},
+			{
+				"label": "Are you users actually getting the treatment we expect them to get?"
+			}
+		]
+	},
+	{
+		"title": "Our Data",
+		"label": "To take into account on user level data",
+		"question": [
+			{
+				"label": "Do you have one user in more than one variant of the same AB test?"
+			},
+			{
+				"label": "Do we have enough users in our AB test? Are those users representative for the total population?"
+			},
+			{
+				"label": "Are you users actually getting the treatment we expect them to get?"
+			}
+		]
+	},
+	{
+		"title": "Our study case",
+		"label": "To take into account on user level data",
+		"question": [
+			{
+				"label": "Do you have one user in more than one variant of the same AB test?"
+			},
+			{
+				"label": "Do we have enough users in our AB test? Are those users representative for the total population?"
+			},
+			{
+				"label": "Are you users actually getting the treatment we expect them to get?"
+			}
+		]
+	},
+	{
+		"title": "Hands on analyzing",
+		"label": "To take into account on user level data",
+		"question": [
+			{
+				"label": "Do you have one user in more than one variant of the same AB test?"
+			},
+			{
+				"label": "Do we have enough users in our AB test? Are those users representative for the total population?"
+			},
+			{
+				"label": "Are you users actually getting the treatment we expect them to get?"
+			}
+		]
+	},
+	{
+		"title": "Initialization",
+		"label": "To take into account on user level data",
+		"question": [
+			{
+				"label": "Do you have one user in more than one variant of the same AB test?"
+			},
+			{
+				"label": "Do we have enough users in our AB test? Are those users representative for the total population?"
+			},
+			{
+				"label": "Are you users actually getting the treatment we expect them to get?"
+			}
+		]
+	}
+]
